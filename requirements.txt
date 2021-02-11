@@ -1,0 +1,7 @@
+discord.py
+sqlite3
+datetime
+asyncio
+time
+configparser
+os
